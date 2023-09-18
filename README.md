@@ -9,3 +9,5 @@ If you find this subject intriguing and wish to gain a deeper understanding of t
 John's explanations regarding this subject are outstanding.
 
 [You can read more about sv/uvm in my blog](https://www.verification-explorer.com)
+
+If you find any mistake in my code please leave me a comment in my blog
